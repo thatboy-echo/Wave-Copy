@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "水波纹", "水波纹.vcxproj", "{D2C1BC32-788F-4E00-9286-5D8132DCCD82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C1BC32-788F-4E00-9286-5D8132DCCD82}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2C1BC32-788F-4E00-9286-5D8132DCCD82}.Debug|x86.Build.0 = Debug|Win32
+		{D2C1BC32-788F-4E00-9286-5D8132DCCD82}.Release|x86.ActiveCfg = Release|Win32
+		{D2C1BC32-788F-4E00-9286-5D8132DCCD82}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62A1C2B-6F7B-402B-A75A-571A6DD8F35E}
+	EndGlobalSection
+EndGlobal
